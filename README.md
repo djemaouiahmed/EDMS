@@ -34,6 +34,22 @@ To run this project locally, follow these steps:
    git clone https://github.com/yourusername/edms.git
    cd edms
 2. Install dependency :
-  ```sh
- npm install
-3. 
+   ```sh
+   npm install
+## Usage   
+1. Start back-end:
+   ```sh
+   cd back-end
+   npm start
+2. Start front-end:
+   ```sh
+   cd ..
+   cd front-end
+   npm start
+3. Open url: **backend will work on exemple:http//:localhost:3000**
+   but the front end will always work
+   **frontend will work http//:localhost:3001**
+## Screenshots
+1.Login page And register pages:
+![Pic1](screenshots/Screenshot_2024-05-17_184841.png)
+   
