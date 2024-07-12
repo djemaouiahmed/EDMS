@@ -35,13 +35,17 @@ To run this project locally, follow these steps:
    cd edms
 2. Install dependency :
    ```sh
+   cd back-edn
+   npm install
+   cd..
+   cd front-end
    npm install
 ## Usage   
-1. Start back-end:
+1. First Start back-end:
    ```sh
    cd back-end
-   npm start
-2. Start front-end:
+   npm install
+2. Next Start front-end:
    ```sh
    cd ..
    cd front-end
@@ -52,4 +56,4 @@ To run this project locally, follow these steps:
 ## Screenshots
 1.Login page And register pages:
 ![Pic1](screenshots/Screenshot_2024-05-17_184841.png)
-   
+![Pic2](screenshots/Screenshot 2024-05-16 153052.png).
