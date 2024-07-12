@@ -76,10 +76,11 @@ To run this project locally, follow these steps:
 Contact Information
 For any inquiries or feedback, feel free to contact me at:
 
-Email: [djemaoui2003@gmail.com](djemaoui2003@gmail.com)
+Email: djemaoui2003@gmail.com
+
 GitHub: [djemaouiahmed](https://github.com/djemaouiahmed)
 
 
 ## Collaboration:
--the [the CERIST](https://www.cerist.dz/index.php/fr/) 
+- [the CERIST](https://www.cerist.dz/index.php/fr/) 
 - [Djalal aymen](https://github.com/Djalal01)
